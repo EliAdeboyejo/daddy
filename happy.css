@@ -1,0 +1,42 @@
+
+#One{
+    text-align: center;
+    color: blue;
+}
+
+body{
+    background: url(./confetti.jpeg);
+}
+
+#two{
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+    font-size: 2.5rem;
+}
+
+#three{
+    font-size: 2.0rem;
+    color: blueviolet;
+}
+
+#four{
+    color: darkgreen;
+}
+
+#five{
+    font-size: 2.0rem;
+    color: blueviolet;
+}
+
+#six{
+    color: darkgreen;
+}
+
+#seven{
+    padding: 75px;
+    color: red;
+    background-color: aliceblue;
+    margin-left: 550px;
+    outline-color: aliceblue;
+}
